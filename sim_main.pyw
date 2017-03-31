@@ -1,4 +1,4 @@
-import sim.sim_v1.ly as ly
+import ly
 from unit import Unit
 import pygame, sys, random
 from pygame.locals import *
